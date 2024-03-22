@@ -25,12 +25,18 @@ public class App
 	}
 	
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 	//1
 =======
+=======
+>>>>>>> Stashed changes
 	
 	
 	
 	//2
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 	
 }
