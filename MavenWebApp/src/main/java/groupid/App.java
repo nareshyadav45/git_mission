@@ -16,5 +16,11 @@ public class App
 		System.out.println(i+j);
 		
         System.out.println( "Hello World!" );
+		
     }
+	
+	//inital task (low priority)
+	public void greet(){
+		 System.out.println( "changes completed" );
+	}
 }
