@@ -24,6 +24,13 @@ public class App
 		 System.out.println( "changes completed" );
 	}
 	
+<<<<<<< Updated upstream
 	//1
+=======
+	
+	
+	
+	//2
+>>>>>>> Stashed changes
 	
 }
