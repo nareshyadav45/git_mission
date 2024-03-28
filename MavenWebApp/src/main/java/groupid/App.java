@@ -24,19 +24,6 @@ public class App
 		 System.out.println( "changes completed" );
 	}
 	
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-	//1
-=======
-=======
->>>>>>> Stashed changes
-	
-	
-	
-	//2
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+   syso("new relesase 3");
 	
 }
